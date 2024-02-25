@@ -1,41 +1,40 @@
 ---
 title: "Irene Kibet"
-image: "frank.jpg"
+image: "Images/Irene_K.JPG"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
+    url: "www.linkedin.com/in/irene-kibet"
+  - label: Kaggle
+    url: "https://www.kaggle.com/irenekibet"
   - label: GitHub
     url: "https://github.com/"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "irenekibet10@gmail.com"
 output:
   postcards::trestles
 site: distill::distill_website
 ---
  
-## Bio
+## About Me
 
-Frank Hermosillo studies neural networks and their applications at Google 
-Brain. His research focuses on differentiable network pruning approximation and 
-decentralized gradient inversion mechanics. He frequently collaborates with 
-researchers who study machine learning, computer vision, and cognitive science.
-His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
-Times Magazine.
+Hi, my name is **Irene Kibet**, I am an aspiring data analyst from Kenya. Over the years, I have helped organizations achieve profitability by improving their customer experience. After spending close to 10 years in the field of customer service, I felt the urge to transition into a career that will put me at the forefront of decision-making processes. I realized that data is the driving force behind many business strategies today, and being able to interpret and utilize this data could allow me to make a more direct impact on the organizations I work with. 
+I am currently seeking new opportunities and am open to relocating anywhere in the US. Let's set up a call to chat about how I can help your organization to thrive.
+
 
 ## Education
 
-**Massachusetts Institute of Technology** | Cambridge, MA
+**Grand Valley State University** | Allendale, MI
 
-Ph.D. in Computer Science | September 2009 - May 2014
+M.S in Data Science and Analytics | August 2022 - April 2024
 
-**The University of California, Berkeley** | Berkeley, CA
+**Moi University** | Eldoret, Kenya
 
-B.S. in Computer Science | September 2005 - May 2009
+B.S in Business Management | September 2009 - May 2013
 
 ## Experience
 
-**Google Brain** | Principal Investigator | January 2018 - Present
+**Steelcase Inc.** | Financial Analyst Intern | May 2023 - Present
 
-**Netflix** | Research Scientist | June 2014 - December 2017
+**Mozzart Bet Kenya Ltd** | Customer Experience Manager | February 2020 - August 2022
+
+**Metropol Corporation** | Customer Experience Officer | October 2018 - January 2020
