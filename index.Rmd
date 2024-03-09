@@ -3,13 +3,13 @@ title: "Irene Kibet"
 image: "Images/Irene_K.JPG"
 links:
   - label: LinkedIn
-    url: "www.linkedin.com/in/irene-kibet"
+    url: "https://www.linkedin.com/in/irene-kibet"
   - label: Kaggle
     url: "https://www.kaggle.com/irenekibet"
   - label: GitHub
     url: "https://github.com/"
   - label: Email
-    url: "irenekibet10@gmail.com"
+    url: "mailto:irenekibet10@gmail.com"
 output:
   postcards::trestles
 site: distill::distill_website
@@ -17,8 +17,14 @@ site: distill::distill_website
  
 ## About Me
 
-Hi, my name is **Irene Kibet**, I am an aspiring data analyst from Kenya. Over the years, I have helped organizations achieve profitability by improving their customer experience. After spending close to 10 years in the field of customer service, I felt the urge to transition into a career that will put me at the forefront of decision-making processes. I realized that data is the driving force behind many business strategies today, and being able to interpret and utilize this data could allow me to make a more direct impact on the organizations I work with. 
-I am currently seeking new opportunities and am open to relocating anywhere in the US. Let's set up a call to chat about how I can help your organization to thrive.
+Hi, my name is **Irene Kibet**, I am a data enthusiast hailing from the vibrant landscapes of Kenya. My journey began in the realm of customer service, where for a decade, I dedicated myself to enhancing customer experiences and driving profitability for various organizations. This experience ignited in me a passion for data and its transformative potential.
+
+Recognizing that data is the backbone of strategic decision-making in today’s business world, I decided to pivot my career towards data science. 
+My goal? To harness the power of data to influence decisions and make a tangible impact on the organizations I collaborate with.
+
+I am currently seeking new opportunities and I am open to relocating anywhere in the US. 
+
+Let's set up a call to chat about how I can help your organization to thrive.
 
 
 ## Education
